@@ -16,6 +16,10 @@ public class Proyecto_biblioteca_u {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Frame_Persona frame = new Frame_Persona();
+        frame.setVisible(true);
+       
+        
     }
     
 }
